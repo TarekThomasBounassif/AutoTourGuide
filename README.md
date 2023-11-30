@@ -7,3 +7,4 @@ Places API Docs -> https://developers.google.com/maps/documentation/places/web-s
 
 # Diagrams
 ![Diagram](DataInflowDiagram.drawio)
+![Diagram](DataInflowDiagram.drawio.png)
